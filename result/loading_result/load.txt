@@ -1,0 +1,4 @@
+scale1_load:    180.0 secs
+scale3_load:    349.2 secs
+scale5_load:    713.5 secs
+scale7_load:    1811.7 secs

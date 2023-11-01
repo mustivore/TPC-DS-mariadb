@@ -1,0 +1,4 @@
+scale_1     1550.0 secs
+scale_3     8886.0 secs
+scale_5     20088.0 secs
+scale_7     42718.0 secs
